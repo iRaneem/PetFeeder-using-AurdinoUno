@@ -23,7 +23,7 @@ first downlod aurdoino software and uplod the code to the IDE
 second you should do the connection of hardware as in the presentation 
 conecct the PC to Ardoino chip through USB be aware to specify the port from the bar tool in the IDE
 now evry thing is ready once cat is near enough ultrasonic sensor detect its presents and motor will rotate 90 degree allowing food to drop
-#team member 
+# team member 
 Raneem Alomari - Noof  Almontashry - Bedoor Almareni - Taqia Rashwan 
 
  
