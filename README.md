@@ -1,5 +1,5 @@
 # PetFeeder-using-AurdinoUno
-# Content included in pdf: 
+# Content included : 
 intoduction 
 flowcharts
 circut connection
